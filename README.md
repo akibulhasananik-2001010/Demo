@@ -23,7 +23,7 @@ This project is a basic HTML website created for learning and demonstration purp
 Demo/
 │
 ├── index.html  # Main HTML page
-└── README.md  # Project documentation
+└── README.md   # Project documentation
 ```
  
 ## How to Run Locally
