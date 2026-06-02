@@ -10,8 +10,6 @@ This project is a basic HTML website created for learning and demonstration purp
 
 * Simple and lightweight web page
 * Built using pure HTML
-* Beginner-friendly project structure
-* Easy to modify and extend
 
 ## Technologies Used
 
