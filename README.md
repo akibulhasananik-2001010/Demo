@@ -4,7 +4,7 @@ A simple static web page built with HTML.
 
 ## Overview
 
-This project is a basic HTML website created for learning and demonstration purposes. It contains a simple web page that displays a greeting message and serves as an introduction to web development fundamentals.
+This project is a basic HTML website created for learning and demonstration purposes. 
 
 ## Features
 
@@ -15,11 +15,19 @@ This project is a basic HTML website created for learning and demonstration purp
 
 * HTML5
 
+## Project Structure
+
+```text
+Demo/
+│
+├── index.html  # Main HTML page
+└── README.md   # Project documentation
+```
+   
 ## Learning Purpose
 
 This repository was created for learning purposes to understand:
 
-* Basic HTML structure
 * Web page creation
 * Git and GitHub workflow
 
