@@ -15,21 +15,6 @@ This project is a basic HTML website created for learning and demonstration purp
 
 * HTML5
 
-## Project Structure
-
-```text
-Demo/
-│
-├── index.html  # Main HTML page
-└── README.md   # Project documentation
-```
- 
-## How to Run Locally
-
-1. Clone the repository.
-2. Open the project folder.
-3. Open the `index.html` file in any web browser.
-
 ## Learning Purpose
 
 This repository was created for learning purposes to understand:
